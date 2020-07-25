@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pagination /> <Pagination /> initial renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<Pagination /> <Pagination /> with three pages Click handlers renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<Pagination /> <Pagination /> with three pages renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<Pagination /> <Pagination /> with three pages when current page is 2 renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<Pagination /> <Pagination /> with three pages when current page is 3 renders properly 1`] = `ShallowWrapper {}`;

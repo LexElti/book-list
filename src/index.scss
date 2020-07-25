@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+
+.card-img-top {
+  display: block;
+  height: 200px;
+  overflow: hidden;
+}  
+
+.card-text:last-of-type {
+  max-height: 100px;
+  overflow-y: scroll;
+}
+
+.pagination .page-item.active {
+  pointer-events: none;
+  cursor: auto;
+}

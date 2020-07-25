@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> <Input /> initial renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<Input /> <Input /> some change renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<Input /> Input handler renders properly 1`] = `ShallowWrapper {}`;

@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BookForm /> <BookForm /> initial renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<BookForm /> <BookForm /> with warning message renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<BookForm /> Form handlers renders properly 1`] = `ShallowWrapper {}`;

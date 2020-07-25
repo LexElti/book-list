@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BookList /> <BookList /> initial renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<BookList /> <BookList /> with books renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`<BookList /> <BookList /> with loader renders properly 1`] = `ShallowWrapper {}`;
